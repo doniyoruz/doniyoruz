@@ -2,7 +2,7 @@
 - 👀 I’m interested in risk management
 - 🌱 I’m currently learning django
 - 💞️ I’m looking to collaborate on creating risk management platform
-- 📫 How to reach me https://t.me/riskmanageruz
+- 📫 How to reach me https://t.me/rsurd
 
 <!---
 doniyoruz/doniyoruz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
